@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【天凤】壁纸合集</title>
-    <url>/2021/04/07/%E3%80%90%E5%A4%A9%E5%87%A4%E3%80%91%E5%A3%81%E7%BA%B8%E5%90%88%E9%9B%86/</url>
-    <content><![CDATA[<p>&emsp;&emsp;这里包含了一些天凤的桌布。</p>
+    <title>【20210401】CTA策略3月总结</title>
+    <url>/2021/04/01/%E3%80%9020210401%E3%80%91CTA%E7%AD%96%E7%95%A53%E6%9C%88%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<p>&emsp;&emsp;2021年三月已经过去了，在这三个月中是对我们团队的一次极大的考验，原有的策略不断被新策略所取代，新策略的更新速度由于新的团队成员的加入而倍增。</p>
   <span id="more"></span>
-
-
-
-<p><img src="/images/%5B20210407%5D/001.jpg" alt="001"></p>
+<p>&emsp;&emsp;新策略从以下几个方面做出了优化：其一，加入了更多的品种进入策略备选池中，其中品种类别也较之前有了一定的调整，加入了有色金属板块、农产品板块以及软商品板块。多板块的加入，提升了策略整体的分散化效果，策略的波动率也较之前的回测结果有了一定幅度的减小；其二，趋势策略的因子计算方法有了本质的更新；其三，仓位管理方面进行了一定程度的优化；最后，品种周期的选择方面有了一定程度的调整，摈弃了之前择周期的思路。</p>
+<p><img src="/images/%5B20210401%5D/01.png" alt="3月末持仓情况"></p>
 ]]></content>
       <categories>
-        <category>壁纸</category>
+        <category>策略总结</category>
       </categories>
       <tags>
-        <tag>壁纸</tag>
-        <tag>天凤</tag>
-        <tag>日麻</tag>
+        <tag>量化趋势</tag>
+        <tag>CTA策略</tag>
       </tags>
   </entry>
   <entry>
@@ -38,19 +35,22 @@
       </tags>
   </entry>
   <entry>
-    <title>【20210401】CTA策略3月总结</title>
-    <url>/2021/04/01/%E3%80%9020210401%E3%80%91CTA%E7%AD%96%E7%95%A53%E6%9C%88%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<p>&emsp;&emsp;2021年三月已经过去了，在这三个月中是对我们团队的一次极大的考验，原有的策略不断被新策略所取代，新策略的更新速度由于新的团队成员的加入而倍增。</p>
+    <title>【天凤】壁纸合集</title>
+    <url>/2021/04/07/%E3%80%90%E5%A4%A9%E5%87%A4%E3%80%91%E5%A3%81%E7%BA%B8%E5%90%88%E9%9B%86/</url>
+    <content><![CDATA[<p>&emsp;&emsp;这里包含了一些天凤的桌布。</p>
   <span id="more"></span>
-<p>&emsp;&emsp;新策略从以下几个方面做出了优化：其一，加入了更多的品种进入策略备选池中，其中品种类别也较之前有了一定的调整，加入了有色金属板块、农产品板块以及软商品板块。多板块的加入，提升了策略整体的分散化效果，策略的波动率也较之前的回测结果有了一定幅度的减小；其二，趋势策略的因子计算方法有了本质的更新；其三，仓位管理方面进行了一定程度的优化；最后，品种周期的选择方面有了一定程度的调整，摈弃了之前择周期的思路。</p>
-<p><img src="/images/%5B20210401%5D/01.png" alt="3月末持仓情况"></p>
+
+
+
+<p><img src="/images/%5B20210407%5D/001.jpg" alt="001"></p>
 ]]></content>
       <categories>
-        <category>策略总结</category>
+        <category>壁纸</category>
       </categories>
       <tags>
-        <tag>量化趋势</tag>
-        <tag>CTA策略</tag>
+        <tag>壁纸</tag>
+        <tag>天凤</tag>
+        <tag>日麻</tag>
       </tags>
   </entry>
   <entry>
@@ -66,6 +66,19 @@
       </categories>
       <tags>
         <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新的开始</title>
+    <url>/2021/03/28/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+    <content><![CDATA[<h1 id="写在最开始"><a href="#写在最开始" class="headerlink" title="写在最开始"></a>写在最开始</h1><span id="more"></span> 
+<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+      <categories>
+        <category>自我介绍</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>关于我</tag>
       </tags>
   </entry>
   <entry>
@@ -89,19 +102,6 @@
       <tags>
         <tag>量化趋势</tag>
         <tag>CTA策略</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>新的开始</title>
-    <url>/2021/03/28/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
-    <content><![CDATA[<h1 id="写在最开始"><a href="#写在最开始" class="headerlink" title="写在最开始"></a>写在最开始</h1><span id="more"></span> 
-<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
-      <categories>
-        <category>自我介绍</category>
-      </categories>
-      <tags>
-        <tag>导航</tag>
-        <tag>关于我</tag>
       </tags>
   </entry>
   <entry>
@@ -219,6 +219,7 @@
     <tr><td><div align="center">089</div></td><td><img src='https://mj.black-desk.cn/2233999m1145679s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/3m?scale=0.7' align='center' /></td></tr>
     <tr><td><div align="center">089</div></td><td><img src='https://mj.black-desk.cn/113556m56p6677788s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/5m?scale=0.7' align='center' /></td></tr>
     <tr><td><div align="center">089</div></td><td><img src='https://mj.black-desk.cn/1157m227p2337999s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/7s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">089</div></td><td><img src='https://mj.black-desk.cn/2256m12257p45579s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/9s?scale=0.7' align='center' /></td></tr>
     </table>
 
 <p>【20210410】清一色听牌练习</p>
