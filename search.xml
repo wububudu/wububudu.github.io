@@ -24,7 +24,8 @@
 <p>&emsp;&emsp;具体到策略的相关品种，我们新策略下加入了更多的新板块、新品种，如有色、农产品等，但也正因为我们的新策略自前段时间内回测中抓住了有色等板块的趋势，这使得我们可以说是在有色板块的较高点入场，策略经历了这一波的“劈叉”行情。四月下旬以来，大宗商品的整体板块出现了一个净多头行情，我们账户的整体净杠杆率高达2.5以上，一大半的品种出现了持有多单的情况，这也是我们需要时刻警惕的。</p>
 <p>&emsp;&emsp;整体上，策略的迭代情况在这各四月份来是这样的：一、原有的仓位管理有了新的升级，我们将市场的运行状况分为了八种情况，根据这八种不同的情况配置了多头仓位与空头仓位，将多空仓位做了一定的区分；二、考虑了整体商品市场亦或是整体板块的不同情况可以对我们持有的仓位进行不同程度上的有效管理，在板块或是商品市场上的大趋势也许能够过滤掉一些短期的波动情况，使得策略整体的波动程度有所下降。这也是所谓经典的三重滤网思想中的第一层————大环境上的过滤。目前这两条在我们的回测框架中表现良好，能够有效的提升策略的夏普比率，且在其他条件不变的情况下降低了整个策略的回撤，在短期内我们认为这次更新是有效的，在未来的模拟过程中我们会时刻监控策略的运行状况。</p>
 <p>&emsp;&emsp;最后，许个愿吧，希望今年能有个好收成！！</p>
-<p><img src="/images/%5B20210425%5D/01.png" alt="3月末持仓情况"><br><img src="/images/%5B20210425%5D/02.png" alt="改进模型后的策略性能"><br><img src="/images/%5B20210425%5D/03.png" alt="改进模型后的净值曲线图"></p>
+<p>&emsp;&emsp;3月末持仓情况如下：<br><img src="/images/%5B20210425%5D/01.png" alt="3月末持仓情况"></p>
+<p>&emsp;&emsp;改进模型后的策略性能图以及净值曲线图如下：<br><img src="/images/%5B20210425%5D/02.png" alt="改进模型后的策略性能"><br><img src="/images/%5B20210425%5D/03.png" alt="改进模型后的净值曲线图"></p>
 ]]></content>
       <categories>
         <category>策略总结</category>
@@ -69,19 +70,6 @@
       </tags>
   </entry>
   <entry>
-    <title>新的开始</title>
-    <url>/2021/03/28/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
-    <content><![CDATA[<h1 id="写在最开始"><a href="#写在最开始" class="headerlink" title="写在最开始"></a>写在最开始</h1><span id="more"></span> 
-<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
-      <categories>
-        <category>自我介绍</category>
-      </categories>
-      <tags>
-        <tag>导航</tag>
-        <tag>关于我</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>关于CTA策略</title>
     <url>/2021/03/29/%E5%85%B3%E4%BA%8E%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/</url>
     <content><![CDATA[<p>&emsp;&emsp;量化策略的研究涉及到了金融和计算机知识的方方面面，非本人能一言以蔽之，我只想提供我的所思所想，欢迎与我一同讨论。本篇的写作思路主要涉及以下几方面内容：CTA策略的简单介绍；CTA策略的浅显研究；未来的写作计划。<br>  <span id="more"></span></p>
@@ -102,6 +90,19 @@
       <tags>
         <tag>量化趋势</tag>
         <tag>CTA策略</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新的开始</title>
+    <url>/2021/03/28/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+    <content><![CDATA[<h1 id="写在最开始"><a href="#写在最开始" class="headerlink" title="写在最开始"></a>写在最开始</h1><span id="more"></span> 
+<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+      <categories>
+        <category>自我介绍</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>关于我</tag>
       </tags>
   </entry>
   <entry>
@@ -217,9 +218,10 @@
     <tr><td><div align="center">087</div></td><td><img src='https://mj.black-desk.cn/11168m12456p5678s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/1p||2p?scale=0.7' align='center' /></td></tr>
     <tr><td><div align="center">088</div></td><td><img src='https://mj.black-desk.cn/335678p22577m999s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/3p?scale=0.7' align='center' /></td></tr>
     <tr><td><div align="center">089</div></td><td><img src='https://mj.black-desk.cn/2233999m1145679s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/3m?scale=0.7' align='center' /></td></tr>
-    <tr><td><div align="center">089</div></td><td><img src='https://mj.black-desk.cn/113556m56p6677788s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/5m?scale=0.7' align='center' /></td></tr>
-    <tr><td><div align="center">089</div></td><td><img src='https://mj.black-desk.cn/1157m227p2337999s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/7s?scale=0.7' align='center' /></td></tr>
-    <tr><td><div align="center">089</div></td><td><img src='https://mj.black-desk.cn/2256m12257p45579s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/9s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">090</div></td><td><img src='https://mj.black-desk.cn/113556m56p6677788s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/5m?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">091</div></td><td><img src='https://mj.black-desk.cn/1157m227p2337999s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/7s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">092</div></td><td><img src='https://mj.black-desk.cn/2256m12257p45579s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/9s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">093</div></td><td><img src='https://mj.black-desk.cn/237m23499p112357s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/1s?scale=0.7' align='center' /></td></tr>
     </table>
 
 <p>【20210410】清一色听牌练习</p>
