@@ -17,25 +17,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【20210425】CTA策略4月总结</title>
-    <url>/2021/04/25/%E3%80%9020210425%E3%80%91CTA%E7%AD%96%E7%95%A54%E6%9C%88%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<p>&emsp;&emsp;又是大起大落的一个月，四月初净值冲刺到了一个前所未有的高度，但随之而来的也是净值波动的大幅提升。由于策略的主观杠杆率相对于正常杠杆率有所提升，相当于正常的1.25倍，所以回撤来的意外的大。</p>
-  <span id="more"></span>
-<p>&emsp;&emsp;具体到策略的相关品种，我们新策略下加入了更多的新板块、新品种，如有色、农产品等，但也正因为我们的新策略自前段时间内回测中抓住了有色等板块的趋势，这使得我们可以说是在有色板块的较高点入场，策略经历了这一波的“劈叉”行情。四月下旬以来，大宗商品的整体板块出现了一个净多头行情，我们账户的整体净杠杆率高达2.5以上，一大半的品种出现了持有多单的情况，这也是我们需要时刻警惕的。</p>
-<p>&emsp;&emsp;整体上，策略的迭代情况在这各四月份来是这样的：一、原有的仓位管理有了新的升级，我们将市场的运行状况分为了八种情况，根据这八种不同的情况配置了多头仓位与空头仓位，将多空仓位做了一定的区分；二、考虑了整体商品市场亦或是整体板块的不同情况可以对我们持有的仓位进行不同程度上的有效管理，在板块或是商品市场上的大趋势也许能够过滤掉一些短期的波动情况，使得策略整体的波动程度有所下降。这也是所谓经典的三重滤网思想中的第一层————大环境上的过滤。目前这两条在我们的回测框架中表现良好，能够有效的提升策略的夏普比率，且在其他条件不变的情况下降低了整个策略的回撤，在短期内我们认为这次更新是有效的，在未来的模拟过程中我们会时刻监控策略的运行状况。</p>
-<p>&emsp;&emsp;最后，许个愿吧，希望今年能有个好收成！！</p>
-<p>&emsp;&emsp;3月末持仓情况如下：<br><img src="/images/%5B20210425%5D/01.png" alt="3月末持仓情况"></p>
-<p>&emsp;&emsp;改进模型后的策略性能图以及净值曲线图如下：<br><img src="/images/%5B20210425%5D/02.png" alt="改进模型后的策略性能"><br><img src="/images/%5B20210425%5D/03.png" alt="改进模型后的净值曲线图"></p>
-]]></content>
-      <categories>
-        <category>策略总结</category>
-      </categories>
-      <tags>
-        <tag>量化趋势</tag>
-        <tag>CTA策略</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【20210506】CTA策略观察</title>
     <url>/2021/05/06/%E3%80%9020210506%E3%80%91CTA%E7%AD%96%E7%95%A5%E8%A7%82%E5%AF%9F/</url>
     <content><![CDATA[<p>&emsp;&emsp;结束了经过调休的漫长的五一假期，经历了跨海大桥上的车流涌动，外盘期货也像是这海面上的波浪汹涌澎湃。周四期货早盘开盘，便看到了策略净值的历史新高。</p>
@@ -46,6 +27,25 @@
 <p><img src="/images/%5B20210506%5D/01.png" alt="5月6日实盘具体操作"></p>
 <p>&emsp;&emsp;整体策略逻辑在这次狂欢中得以淋漓尽致的体现。一片歌舞升平中我们急流勇退，也许情绪面上的狂欢还将继续，但是整体策略的回撤幅度需要在这波行情中被很好控制。</p>
 <p>&emsp;&emsp;现模型后的策略性能图以及净值曲线图如下：<br><img src="/images/%5B20210506%5D/02.png" alt="现模型后的策略性能"><br><img src="/images/%5B20210506%5D/03.png" alt="现模型后的净值曲线图"></p>
+]]></content>
+      <categories>
+        <category>策略总结</category>
+      </categories>
+      <tags>
+        <tag>量化趋势</tag>
+        <tag>CTA策略</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【20210425】CTA策略4月总结</title>
+    <url>/2021/04/25/%E3%80%9020210425%E3%80%91CTA%E7%AD%96%E7%95%A54%E6%9C%88%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<p>&emsp;&emsp;又是大起大落的一个月，四月初净值冲刺到了一个前所未有的高度，但随之而来的也是净值波动的大幅提升。由于策略的主观杠杆率相对于正常杠杆率有所提升，相当于正常的1.25倍，所以回撤来的意外的大。</p>
+  <span id="more"></span>
+<p>&emsp;&emsp;具体到策略的相关品种，我们新策略下加入了更多的新板块、新品种，如有色、农产品等，但也正因为我们的新策略自前段时间内回测中抓住了有色等板块的趋势，这使得我们可以说是在有色板块的较高点入场，策略经历了这一波的“劈叉”行情。四月下旬以来，大宗商品的整体板块出现了一个净多头行情，我们账户的整体净杠杆率高达2.5以上，一大半的品种出现了持有多单的情况，这也是我们需要时刻警惕的。</p>
+<p>&emsp;&emsp;整体上，策略的迭代情况在这各四月份来是这样的：一、原有的仓位管理有了新的升级，我们将市场的运行状况分为了八种情况，根据这八种不同的情况配置了多头仓位与空头仓位，将多空仓位做了一定的区分；二、考虑了整体商品市场亦或是整体板块的不同情况可以对我们持有的仓位进行不同程度上的有效管理，在板块或是商品市场上的大趋势也许能够过滤掉一些短期的波动情况，使得策略整体的波动程度有所下降。这也是所谓经典的三重滤网思想中的第一层————大环境上的过滤。目前这两条在我们的回测框架中表现良好，能够有效的提升策略的夏普比率，且在其他条件不变的情况下降低了整个策略的回撤，在短期内我们认为这次更新是有效的，在未来的模拟过程中我们会时刻监控策略的运行状况。</p>
+<p>&emsp;&emsp;最后，许个愿吧，希望今年能有个好收成！！</p>
+<p>&emsp;&emsp;3月末持仓情况如下：<br><img src="/images/%5B20210425%5D/01.png" alt="3月末持仓情况"></p>
+<p>&emsp;&emsp;改进模型后的策略性能图以及净值曲线图如下：<br><img src="/images/%5B20210425%5D/02.png" alt="改进模型后的策略性能"><br><img src="/images/%5B20210425%5D/03.png" alt="改进模型后的净值曲线图"></p>
 ]]></content>
       <categories>
         <category>策略总结</category>
@@ -68,6 +68,61 @@
         <category>随笔</category>
       </categories>
       <tags>
+        <tag>CTA策略</tag>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【20210528】CTA策略5月总结</title>
+    <url>/2021/05/28/%E3%80%9020210528%E3%80%91CTA%E7%AD%96%E7%95%A55%E6%9C%88%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<p>&emsp;&emsp;回顾2021年的5月，十分跌宕的一个月。策略净值自发哥谈话来达到了最高的1.24，自此之后，策略有了了一场幅度不小的回撤。本月我们将杠杆水平调整至正常水平，但是行情的瞬息万变远远超出了我们的预期范围之外，值得好好反思。</p>
+  <span id="more"></span>
+
+<p>&emsp;&emsp;整个黑色现货市场的火爆也点燃了整个商品期货市场，5月12日的整个商品指数冲到了历史新高，下图所示：<br><img src="/images/%5B20210528%5D/01.png" alt="TB商品指数走势图"></p>
+<p>&emsp;&emsp;接踵而至的是发哥的一席话语，给整个以黑色系商品为代表的所有大宗商品泼了一盆冷水，让市场回归了理性，也使得我们的策略经历了这波回撤。我们那个时候的持仓一把多单，由于行情的疯狂，系统也根本没持有空单。虽然有些品种到达了超买的状态后自行平仓止盈，但是整体的仓位水平还是一把多单冲刺，丝毫没有顾及这突如其来的政策面调整。上个月的策略总结也提到了净杠杆纯多可能带来的伤害，想不到马上套用到了自己身上，也是意想不到。</p>
+<p>&emsp;&emsp;黑色政策面消息时间线梳理：<br><img src="/images/%5B20210528%5D/06.png" alt="时间线梳理"></p>
+<p>&emsp;&emsp;正是由于巨大回撤的刺激，我们团队对现有的策略做出了相关的调整。我们认为市场的超买超卖信号是值得研究的，当整个市场处于狂热状态之时，也可能是行情走到尽头之日，这个时候的策略应该尽快在海水未曾退去的时候，逆势而为，拒绝恋战。大环境的调整在所难免，更应把握住各种行情的洗礼，策略才能有所作为。<br><img src="/images/%5B20210528%5D/02.png" alt="研报图片"></p>
+<p>&emsp;&emsp;在这种行情的洗礼下，我们有了两层思考：其一，是不是应该考虑事件驱动因素，应人为干预策略。针对一些重大政策面调整应考虑到整体仓位的适当调整；其二，是不是应该考虑购买相关的期权头寸来保护我们的期货相关头寸，达到买保护费的效果，以减小相关回撤程度。由于我们团队期权策略的不熟悉，未来可能涉及相关研究，以提升策略的收益风险比。</p>
+<p>&emsp;&emsp;5月末持仓情况如下：<br><img src="/images/%5B20210528%5D/03.png" alt="5月末持仓情况"></p>
+<p>&emsp;&emsp;经过改进后的策略性能在回撤上有了不小幅度的提升。<br>&emsp;&emsp;改进模型后的策略性能图以及净值曲线图如下：<br><img src="/images/%5B20210528%5D/04.png" alt="改进模型后的策略性能"><br><img src="/images/%5B20210528%5D/05.png" alt="改进模型后的净值曲线图"></p>
+]]></content>
+      <categories>
+        <category>策略总结</category>
+      </categories>
+      <tags>
+        <tag>量化趋势</tag>
+        <tag>CTA策略</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【20210528】【随笔】杭州游记</title>
+    <url>/2021/05/28/%E3%80%9020210528%E3%80%91%E3%80%90%E9%9A%8F%E7%AC%94%E3%80%91%E6%9D%AD%E5%B7%9E%E6%B8%B8%E8%AE%B0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>【20210528】记录与从事量化行业同学的谈话及心得</title>
+    <url>/2021/05/28/%E3%80%9020210528%E3%80%91%E4%B8%8E%E4%BB%8E%E4%BA%8B%E9%87%8F%E5%8C%96%E8%A1%8C%E4%B8%9A%E5%90%8C%E5%AD%A6%E7%9A%84%E8%B0%88%E8%AF%9D%E6%80%BB%E7%BB%93%E5%8F%8A%E5%BF%83%E5%BE%97/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>【20210528】与从事量化行业同学的谈话总结及心得</title>
+    <url>/2021/05/28/%E3%80%9020210528%E3%80%91%E8%AE%B0%E5%BD%95%E4%B8%8E%E4%BB%8E%E4%BA%8B%E9%87%8F%E5%8C%96%E8%A1%8C%E4%B8%9A%E5%90%8C%E5%AD%A6%E7%9A%84%E8%B0%88%E8%AF%9D%E5%8F%8A%E5%BF%83%E5%BE%97/</url>
+    <content><![CDATA[<p>&emsp;&emsp;前几天，也是在杭州的西子湖畔，与久别的老同学聚餐一顿。他来自杭州的某家知名量化私募，做的是算法交易研究员的工作，很高兴能与他深入交流，了解现在整个中国量化私募的相关信息（Os：八卦hhh）。</p>
+  <span id="more"></span>
+
+<p>&emsp;&emsp;也是很关心他家的CTA策略，问道：“你们的CTA策略做的不错。”他回答到：“哈哈哈，我们这块主要还是关注可以容纳相当体量的股票策略，这CTA策略仅仅是我们老板的个人策略已经一年没有更新了。”我继续问道：“那CTA策略是你们公司谁做的啊？”他继续应我，道：“哈哈哈，我不是很清楚，但是我们老板认为CTA体量太小了，就把两位做CTA的给辞了。”（此时此刻我内心OS：“wdnm，fxxk！”），这时我也只能勉为其难尴尬一笑。</p>
+<p>&emsp;&emsp;他告诉我：“我们的幕后老板其实不是XJ和CZ，他们也算我们老板的合伙人，我们老板为人极为低调，但是身价却不低，虽然福布斯里面也找不到他，哈哈哈。”我问：“今年来看，MH出了不少的负面消息啊！”他回答道：“是的，他们老板QHM野心太大了，策略优化的速度没有跟上规模的扩张速度，出事情是必然的，一年的规模从200E扩张道1300多E，这么看来，面临着不小的赎回压力。”（OS：看来不能盲目扩张啊）他继续说：“之前某一天股指期货的成交量巨大，我们老板当天晚上去打听了一些情况。这是因为一家上海的量化私募的高频策略出现了严重的问题，导致他们在一个下午巨亏2E多！”（OS：听着好吓人！~</p>
+<p>&emsp;&emsp;我问：“我听WDY说你们的对冲策略最近好像不太赚钱啊，这是什么原因？”他告诉我：“嗐，说来话长，哎？WDY是怎么知道我司的啊？”我偷笑道：“我告诉他的，他现在在BNB的理财子做基金研究，算是FOF吧，哈哈哈！”他继续回我：“对冲产品今年来是不太赚钱，因为基差的原因，每次换月不是动态调整，IF,IH,IC的基差非常小，由此对冲可以赚的基差收益是非常小的，本来策略部向老板建议做动态的换仓，但是老板觉得问题不大，嗐！我们还建议对冲产品的客户免费赎回，因为实在是对冲策略不太赚钱，因而对冲系列的产品今年的alpha可想而知。”我说：“也难怪啊！”</p>
+<p>&emsp;&emsp;问到了他具体的工作职责：“你一般做算法交易的，每天忙一些什么啊？？”他说：“现在策略已经基本不再改动了，我现在的工作职责算是整个部分的一颗小螺丝钉，每天工作也不是很忙。”（OS：太假了吧orz）我继续追问，那工作做好了看一些什么研报啊。”他跟我说：“我嘛，每天搞一些盘口语言的高频策略，，剩余的时间就是每天刷刷知乎什么的。”我问：“你们就是周二和周四加班呗？”他说：“是的，老板觉得得加加班，虽然没有什么事情。”他继续说道：“研报里面的一些东西实在是上不了台面，很多赚钱的高频策略是不share公开的。”我想，也是，一些高频策略是不会分享公开的。他跟我说：“也许对你们CTA有用的是，把所有的因子Z-score和RSI话，这样的话可能对你们的策略有不小的提升。”我惊讶的附和，道：“是的是的，RSI是个好东西啊，我的毕业论文也涉及到了RSI，真是一个神奇的指标，写论文能用，做策略也能用啊，哈哈哈！”“是的RSI指标是有路径依赖的特性，是一个很好的指标！”他笑眯眯的回答道：“比如说，盘口买1至买5的和与卖1至卖5和的差可以做RSI，这样的例子有很多，可以穷举一遍，看看对策略有没有提升。”我听到这也是有如拨云见日，茅塞顿开（OS：三国梗hhh！）</p>
+<p>&emsp;&emsp;“你们的策略不是用到了超算，我看你们公众号里面写着！”我继续追问。讲到这他笑着说：“这也不算是超算，就是显卡堆出来了，那个时候买的是20系的显卡，近期由于BTC的暴涨，导致显卡的价格飙升，我们的超算算是白用一年，还有固定资产的增值，哈哈哈。”“这可以啊！”我说。他继续讲道：“我们的超算主要用在了因子上，AI预测是真的准，这里面全是黑盒，你也不懂，但就是赚钱，就是说不出原因。比如一支股票已经涨停好几天了，这一天涨了6-7%左右，一般人会认为行情已经走完了理应卖出，但是AI认为这个时候不应卖出，果断持有一天，神奇的是果不其然，下午这个股票涨停了，在第二天才卖出这只股票。”我也一愣一愣的的，觉得是挺神奇的，这个黑盒咱也搞不懂，嗐！~</p>
+<p>&emsp;&emsp;聊到了未来的规划，我这位同学也直言不讳：“杭州也就这样，我可能想去上海发展一下，那边的九坤，启林都做的不错，因为杭州这边的策略已经固定下来了，我只是这里的一颗螺丝钉，起不了关键的作用，如果可以的话我希望趁年轻，在做一次奋斗逼，我也挺羡慕你们的，你们算是从0开始做起，有奋斗的感觉！”我说道：“我们也是打算一步一步慢慢来，在小规模资金的时候尽量做到最好，不希望在规模扩张的时候策略出现问题，现在的目标也是提升策略的收益风险比。”</p>
+<p>&emsp;&emsp;谈笑间，不知不觉已经聊了很久，感触颇深。最好，我也希望我们团队能扶摇直上，如鲲鹏展翅天际！</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>量化趋势</tag>
         <tag>CTA策略</tag>
         <tag>随笔</tag>
       </tags>
@@ -124,19 +179,6 @@
       </tags>
   </entry>
   <entry>
-    <title>新的开始</title>
-    <url>/2021/03/28/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
-    <content><![CDATA[<h1 id="写在最开始"><a href="#写在最开始" class="headerlink" title="写在最开始"></a>写在最开始</h1><span id="more"></span> 
-<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
-      <categories>
-        <category>自我介绍</category>
-      </categories>
-      <tags>
-        <tag>导航</tag>
-        <tag>关于我</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>关于CTA策略</title>
     <url>/2021/03/29/%E5%85%B3%E4%BA%8E%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/</url>
     <content><![CDATA[<p>&emsp;&emsp;量化策略的研究涉及到了金融和计算机知识的方方面面，非本人能一言以蔽之，我只想提供我的所思所想，欢迎与我一同讨论。本篇的写作思路主要涉及以下几方面内容：CTA策略的简单介绍；CTA策略的浅显研究；未来的写作计划。<br>  <span id="more"></span></p>
@@ -157,6 +199,19 @@
       <tags>
         <tag>量化趋势</tag>
         <tag>CTA策略</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新的开始</title>
+    <url>/2021/03/28/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+    <content><![CDATA[<h1 id="写在最开始"><a href="#写在最开始" class="headerlink" title="写在最开始"></a>写在最开始</h1><span id="more"></span> 
+<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+      <categories>
+        <category>自我介绍</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>关于我</tag>
       </tags>
   </entry>
   <entry>
@@ -294,7 +349,16 @@
     <tr><td><div align="center">108</div></td><td><img src='https://mj.black-desk.cn/12245678m1689p58s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/9p?scale=0.7' align='center' /></td></tr>
     <tr><td><div align="center">109</div></td><td><img src='https://mj.black-desk.cn/12369p458m113778s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/9p?scale=0.7' align='center' /></td></tr>
     <tr><td><div align="center">110</div></td><td><img src='https://mj.black-desk.cn/2237m1225s135889p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/2m?scale=0.7' align='center' /></td></tr>
-    <tr><td><div align="center">110</div></td><td><img src='https://mj.black-desk.cn/13345578m22356s||7m?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/3s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">111</div></td><td><img src='https://mj.black-desk.cn/13345578m22356s||7m?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/3s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">112</div></td><td><img src='https://mj.black-desk.cn/22478m223p11345s||6s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/2p?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">113</div></td><td><img src='https://mj.black-desk.cn/22378m78p1115578s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/8s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">114</div></td><td><img src='https://mj.black-desk.cn/123p345m2235788s||8s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/3s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">115</div></td><td><img src='https://mj.black-desk.cn/12356m2378s6789p||5p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/5m||6m?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">116</div></td><td><img src='https://mj.black-desk.cn/23346m345s11135p||7p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/6m?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">117</div></td><td><img src='https://mj.black-desk.cn/234677p3568m123s||8p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/8m?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">118</div></td><td><img src='https://mj.black-desk.cn/11224m23p246778s||4s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/4m?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">119</div></td><td><img src='https://mj.black-desk.cn/23888m45566888p||4m?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/5p?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">120</div></td><td><img src='https://mj.black-desk.cn/111278m3444566s||2m?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/6s?scale=0.7' align='center' /></td></tr>
     </table>
 
 <p>【20210410】清一色听牌练习</p>
