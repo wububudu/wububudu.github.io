@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【20210425】CTA策略4月总结</title>
-    <url>/2021/04/25/%E3%80%9020210425%E3%80%91CTA%E7%AD%96%E7%95%A54%E6%9C%88%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<p>&emsp;&emsp;又是大起大落的一个月，四月初净值冲刺到了一个前所未有的高度，但随之而来的也是净值波动的大幅提升。由于策略的主观杠杆率相对于正常杠杆率有所提升，相当于正常的1.25倍，所以回撤来的意外的大。</p>
+    <title>【20210506】CTA策略观察</title>
+    <url>/2021/05/06/%E3%80%9020210506%E3%80%91CTA%E7%AD%96%E7%95%A5%E8%A7%82%E5%AF%9F/</url>
+    <content><![CDATA[<p>&emsp;&emsp;结束了经过调休的漫长的五一假期，经历了跨海大桥上的车流涌动，外盘期货也像是这海面上的波浪汹涌澎湃。周四期货早盘开盘，便看到了策略净值的历史新高。</p>
   <span id="more"></span>
-<p>&emsp;&emsp;具体到策略的相关品种，我们新策略下加入了更多的新板块、新品种，如有色、农产品等，但也正因为我们的新策略自前段时间内回测中抓住了有色等板块的趋势，这使得我们可以说是在有色板块的较高点入场，策略经历了这一波的“劈叉”行情。四月下旬以来，大宗商品的整体板块出现了一个净多头行情，我们账户的整体净杠杆率高达2.5以上，一大半的品种出现了持有多单的情况，这也是我们需要时刻警惕的。</p>
-<p>&emsp;&emsp;整体上，策略的迭代情况在这各四月份来是这样的：一、原有的仓位管理有了新的升级，我们将市场的运行状况分为了八种情况，根据这八种不同的情况配置了多头仓位与空头仓位，将多空仓位做了一定的区分；二、考虑了整体商品市场亦或是整体板块的不同情况可以对我们持有的仓位进行不同程度上的有效管理，在板块或是商品市场上的大趋势也许能够过滤掉一些短期的波动情况，使得策略整体的波动程度有所下降。这也是所谓经典的三重滤网思想中的第一层————大环境上的过滤。目前这两条在我们的回测框架中表现良好，能够有效的提升策略的夏普比率，且在其他条件不变的情况下降低了整个策略的回撤，在短期内我们认为这次更新是有效的，在未来的模拟过程中我们会时刻监控策略的运行状况。</p>
-<p>&emsp;&emsp;最后，许个愿吧，希望今年能有个好收成！！</p>
-<p>&emsp;&emsp;3月末持仓情况如下：<br><img src="/images/%5B20210425%5D/01.png" alt="3月末持仓情况"></p>
-<p>&emsp;&emsp;改进模型后的策略性能图以及净值曲线图如下：<br><img src="/images/%5B20210425%5D/02.png" alt="改进模型后的策略性能"><br><img src="/images/%5B20210425%5D/03.png" alt="改进模型后的净值曲线图"></p>
+
+<p>&emsp;&emsp;早盘消息面上，中国发哥（发改委）中断了中澳战略经济对话机制下的一切活动，这一把火首先点燃了整个黑色系期货，两煤（焦煤、动力煤）率先发力，于下午达到涨停。之后钢铁系中的螺纹与热卷也有着不错的涨幅。由于过了五天的长假，外盘期货并没有休息，农产品及有色金属板块均有着不错的涨幅，值得一提的是伦铜也在这期间突破了10000美元的心理关口。油脂油料方面，马棕榈油及美豆油期货在趁机暴涨，这也引发了今天油脂油料板块的狂欢。化工方面，原油价格已然在60美元之上企稳，内盘化工板块也收获了不小的涨幅。</p>
+<p>&emsp;&emsp;至于我们的策略，今天则创下了单日最大涨幅约5%。我们的整体净杠杆率在今天开盘之前约为1.46，经过今天的狂欢之后，多个品种达到了超买区间，并进行了相应的减仓操作，净杠杆在早盘收盘以后减至1.164。如图所示：</p>
+<p><img src="/images/%5B20210506%5D/01.png" alt="5月6日实盘具体操作"></p>
+<p>&emsp;&emsp;整体策略逻辑在这次狂欢中得以淋漓尽致的体现。一片歌舞升平中我们急流勇退，也许情绪面上的狂欢还将继续，但是整体策略的回撤幅度需要在这波行情中被很好控制。</p>
+<p>&emsp;&emsp;现模型后的策略性能图以及净值曲线图如下：<br><img src="/images/%5B20210506%5D/02.png" alt="现模型后的策略性能"><br><img src="/images/%5B20210506%5D/03.png" alt="现模型后的净值曲线图"></p>
 ]]></content>
       <categories>
         <category>策略总结</category>
@@ -36,16 +37,15 @@
       </tags>
   </entry>
   <entry>
-    <title>【20210506】CTA策略观察</title>
-    <url>/2021/05/06/%E3%80%9020210506%E3%80%91CTA%E7%AD%96%E7%95%A5%E8%A7%82%E5%AF%9F/</url>
-    <content><![CDATA[<p>&emsp;&emsp;结束了经过调休的漫长的五一假期，经历了跨海大桥上的车流涌动，外盘期货也像是这海面上的波浪汹涌澎湃。周四期货早盘开盘，便看到了策略净值的历史新高。</p>
+    <title>【20210425】CTA策略4月总结</title>
+    <url>/2021/04/25/%E3%80%9020210425%E3%80%91CTA%E7%AD%96%E7%95%A54%E6%9C%88%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<p>&emsp;&emsp;又是大起大落的一个月，四月初净值冲刺到了一个前所未有的高度，但随之而来的也是净值波动的大幅提升。由于策略的主观杠杆率相对于正常杠杆率有所提升，相当于正常的1.25倍，所以回撤来的意外的大。</p>
   <span id="more"></span>
-
-<p>&emsp;&emsp;早盘消息面上，中国发哥（发改委）中断了中澳战略经济对话机制下的一切活动，这一把火首先点燃了整个黑色系期货，两煤（焦煤、动力煤）率先发力，于下午达到涨停。之后钢铁系中的螺纹与热卷也有着不错的涨幅。由于过了五天的长假，外盘期货并没有休息，农产品及有色金属板块均有着不错的涨幅，值得一提的是伦铜也在这期间突破了10000美元的心理关口。油脂油料方面，马棕榈油及美豆油期货在趁机暴涨，这也引发了今天油脂油料板块的狂欢。化工方面，原油价格已然在60美元之上企稳，内盘化工板块也收获了不小的涨幅。</p>
-<p>&emsp;&emsp;至于我们的策略，今天则创下了单日最大涨幅约5%。我们的整体净杠杆率在今天开盘之前约为1.46，经过今天的狂欢之后，多个品种达到了超买区间，并进行了相应的减仓操作，净杠杆在早盘收盘以后减至1.164。如图所示：</p>
-<p><img src="/images/%5B20210506%5D/01.png" alt="5月6日实盘具体操作"></p>
-<p>&emsp;&emsp;整体策略逻辑在这次狂欢中得以淋漓尽致的体现。一片歌舞升平中我们急流勇退，也许情绪面上的狂欢还将继续，但是整体策略的回撤幅度需要在这波行情中被很好控制。</p>
-<p>&emsp;&emsp;现模型后的策略性能图以及净值曲线图如下：<br><img src="/images/%5B20210506%5D/02.png" alt="现模型后的策略性能"><br><img src="/images/%5B20210506%5D/03.png" alt="现模型后的净值曲线图"></p>
+<p>&emsp;&emsp;具体到策略的相关品种，我们新策略下加入了更多的新板块、新品种，如有色、农产品等，但也正因为我们的新策略自前段时间内回测中抓住了有色等板块的趋势，这使得我们可以说是在有色板块的较高点入场，策略经历了这一波的“劈叉”行情。四月下旬以来，大宗商品的整体板块出现了一个净多头行情，我们账户的整体净杠杆率高达2.5以上，一大半的品种出现了持有多单的情况，这也是我们需要时刻警惕的。</p>
+<p>&emsp;&emsp;整体上，策略的迭代情况在这各四月份来是这样的：一、原有的仓位管理有了新的升级，我们将市场的运行状况分为了八种情况，根据这八种不同的情况配置了多头仓位与空头仓位，将多空仓位做了一定的区分；二、考虑了整体商品市场亦或是整体板块的不同情况可以对我们持有的仓位进行不同程度上的有效管理，在板块或是商品市场上的大趋势也许能够过滤掉一些短期的波动情况，使得策略整体的波动程度有所下降。这也是所谓经典的三重滤网思想中的第一层————大环境上的过滤。目前这两条在我们的回测框架中表现良好，能够有效的提升策略的夏普比率，且在其他条件不变的情况下降低了整个策略的回撤，在短期内我们认为这次更新是有效的，在未来的模拟过程中我们会时刻监控策略的运行状况。</p>
+<p>&emsp;&emsp;最后，许个愿吧，希望今年能有个好收成！！</p>
+<p>&emsp;&emsp;3月末持仓情况如下：<br><img src="/images/%5B20210425%5D/01.png" alt="3月末持仓情况"></p>
+<p>&emsp;&emsp;改进模型后的策略性能图以及净值曲线图如下：<br><img src="/images/%5B20210425%5D/02.png" alt="改进模型后的策略性能"><br><img src="/images/%5B20210425%5D/03.png" alt="改进模型后的净值曲线图"></p>
 ]]></content>
       <categories>
         <category>策略总结</category>
@@ -53,52 +53,6 @@
       <tags>
         <tag>量化趋势</tag>
         <tag>CTA策略</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【20210528】【随笔】杭州游记</title>
-    <url>/2021/05/28/%E3%80%9020210528%E3%80%91%E3%80%90%E9%9A%8F%E7%AC%94%E3%80%91%E6%9D%AD%E5%B7%9E%E6%B8%B8%E8%AE%B0/</url>
-    <content><![CDATA[<p>&emsp;&emsp;这个月也算将将完成了人生中的一件大事吧，我有学念了。经历了长达半年的入学考试准备，想着需要放松一下，去哪里玩呢？这个问题让我思索良久。最终我选择去杭州，也是我的一位同学毕业答辩完可以陪着我在杭州逛逛。</p>
-  <span id="more"></span>
-
-<p>&emsp;&emsp;为什么是杭州呢？这个城市既熟悉又陌生。几年前的元旦和家里人一起来杭州玩了一天，给我的最初的印象仅仅就是西湖。那一次乘兴而去,败兴而归。几年一别，这次希望能有不一样的感受。</p>
-<p>&emsp;&emsp;我趁着抓住春天的尾巴，五月末，春天最后的凉爽，坐着高铁，约一小时的车程。放置好行李，当天下午便逛了半圈的西湖。今时不同以往，尽管是工作日，客流量比几年前的元旦还要来的多。白堤前，断桥之上熙熙攘攘的人群衬托出西子湖畔的繁华。沿着河堤向前，岸边的柳树，碧绿的柳条好似绦子一般迎风飘荡，诉说夏日将临。傍晚，阴天淡墨色的云朵遮住了落日的余晖，在湖边碧绿一片的荷叶的相衬下，这片湖水显得格外娇俏。还没到游船靠岸的时间，翩翩小舟荡漾在湖面上别有一番滋味。向远处望去，远处的山峰若隐若现与西湖水遥相呼应，倏然，一幅山水画便呈现在面前，驻足湖边久久不忍离去。</p>
-<p><img src="/images/%5B20210528%5D/07.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/08.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/09.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/10.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/11.jpg" alt="游记"></p>
-<p>&emsp;&emsp;翌日上午，去了省博物馆，其中的藏品有一件令我影响深刻，一尊跪坐着的人像，发型感觉十分现代，身上文着不同的花纹，甚是搞笑。这天下午，顶着烈日去了良渚博物馆。</p>
-<p><img src="/images/%5B20210528%5D/12.jpg" alt="游记"></p>
-<p>&emsp;&emsp;随后再次折返西湖，找了一家湖边的星巴克上楼喝茶。依旧是在傍晚，这次太阳从半边云彩中露出真容，从二楼俯看这一潭西湖水，与昨天不同的是，今日西湖可以远眺至与尽头那一边的山相连接，山峦的层次感极尽丰富，近处着墨颇深，远处用淡淡的墨水勾勒出山峰大概的模样，也许这就是中国水墨画所要体现的意境吧。由远及近，笔触点缀一叶叶小舟，有大有小，令人流连。喝一口水，今日傍晚的夕阳甚是火辣，将我们送进了里面的空调房，室内的阴凉让我们长舒了一口气。</p>
-<p><img src="/images/%5B20210528%5D/13.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/14.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/15.jpg" alt="游记"></p>
-<p>&emsp;&emsp;不知不觉，已是周三，天气预报说今天将会有暴雨出现。早上坐着出租车来到了飞来峰、灵隐寺。走到一半，突降暴雨，带着伞，抬头一看，长者的墨宝引入眼帘（值了）。我们虽不诚心信佛，但此时此刻，也进庙拜了一拜，内心期待着今年有个好收成，身体健康。由于时间的关系，我们并没有去飞来峰，山高路滑，今日爬山也不是很合适，且就打了退堂鼓。雨落在屋檐上的声音滴滴答答，声声动人。</p>
-<p><img src="/images/%5B20210528%5D/16.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/17.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/18.jpg" alt="游记"></p>
-<p>&emsp;&emsp;第三次去西湖边了，这次选择了湖边的Costa咖啡馆，刚入座时，并未下雨，可以望穿远处的风景，小舟并未散去，眼前的两棵树好似我们的护卫站立在湖边，不时有小鸟停在亭内的桌子上叽叽喳喳。倏的间，水汽聚集在湖面上，遮住了远处的视线，豆大的雨点从天而降，眼前一片朦胧。雨声像是白噪声一般，催人入眠，恍惚间，迷迷糊糊快要在这睡着了。又过了良久雨声渐渐变小，将我从睡梦中拉了出来，睁开双眼，湖面趋于平静，好似什么也没有发生一般。阴凉的天气、多变的湖面、动人的雨声、层次感十足的远景太惹人怜爱了，手捧着一杯卡布奇诺可以坐一下午，什么也不想去思考，什么也不想去过问，静静的欣赏湖边的美景才是最让人舒服的事情。</p>
-<p><img src="/images/%5B20210528%5D/19.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/20.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/21.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/22.jpg" alt="游记"></p>
-<p>&emsp;&emsp;来杭州三天，看到了三种不同样子的西湖，不虚此行。愿下次还能再次前来，愿能吃上黑珍珠级别的美食，这也是我未来的愿望吧！哈哈哈！~~</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>【20210528】与从事量化行业同学的谈话总结及心得</title>
-    <url>/2021/05/28/%E3%80%9020210528%E3%80%91%E4%B8%8E%E4%BB%8E%E4%BA%8B%E9%87%8F%E5%8C%96%E8%A1%8C%E4%B8%9A%E5%90%8C%E5%AD%A6%E7%9A%84%E8%B0%88%E8%AF%9D%E6%80%BB%E7%BB%93%E5%8F%8A%E5%BF%83%E5%BE%97/</url>
-    <content><![CDATA[<p>&emsp;&emsp;前几天，也是在杭州的西子湖畔，与久别的老同学聚餐一顿。他来自杭州的某家知名量化私募，做的是算法交易研究员的工作，很高兴能与他深入交流，了解现在整个中国量化私募的相关信息（Os：八卦hhh）。</p>
-  <span id="more"></span>
-
-<p>&emsp;&emsp;也是很关心他家的CTA策略，问道：“你们的CTA策略做的不错。”他回答到：“哈哈哈，我们这块主要还是关注可以容纳相当体量的股票策略，这CTA策略仅仅是我们老板的个人策略已经一年没有更新了。”我继续问道：“那CTA策略是你们公司谁做的啊？”他继续应我，道：“哈哈哈，我不是很清楚，但是我们老板认为CTA体量太小了，就把两位做CTA的给辞了。”（此时此刻我内心OS：“wdnm，fxxk！”），这时我也只能勉为其难尴尬一笑。</p>
-<p>&emsp;&emsp;他告诉我：“我们的幕后老板其实不是XJ和CZ，他们也算我们老板的合伙人，我们老板为人极为低调，但是身价却不低，虽然福布斯里面也找不到他，哈哈哈。”我问：“今年来看，MH出了不少的负面消息啊！”他回答道：“是的，他们老板QHM野心太大了，策略优化的速度没有跟上规模的扩张速度，出事情是必然的，一年的规模从200E扩张道1300多E，这么看来，面临着不小的赎回压力。”（OS：看来不能盲目扩张啊）他继续说：“之前某一天股指期货的成交量巨大，我们老板当天晚上去打听了一些情况。这是因为一家上海的量化私募的高频策略出现了严重的问题，导致他们在一个下午巨亏2E多！”（OS：听着好吓人！~</p>
-<p>&emsp;&emsp;我问：“我听WDY说你们的对冲策略最近好像不太赚钱啊，这是什么原因？”他告诉我：“嗐，说来话长，哎？WDY是怎么知道我司的啊？”我偷笑道：“我告诉他的，他现在在BNB的理财子做基金研究，算是FOF吧，哈哈哈！”他继续回我：“对冲产品今年来是不太赚钱，因为基差的原因，每次换月不是动态调整，IF,IH,IC的基差非常小，由此对冲可以赚的基差收益是非常小的，本来策略部向老板建议做动态的换仓，但是老板觉得问题不大，嗐！我们还建议对冲产品的客户免费赎回，因为实在是对冲策略不太赚钱，因而对冲系列的产品今年的alpha可想而知。”我说：“也难怪啊！”</p>
-<p>&emsp;&emsp;问到了他具体的工作职责：“你一般做算法交易的，每天忙一些什么啊？？”他说：“现在策略已经基本不再改动了，我现在的工作职责算是整个部分的一颗小螺丝钉，每天工作也不是很忙。”（OS：太假了吧orz）我继续追问，那工作做好了看一些什么研报啊。”他跟我说：“我嘛，每天搞一些盘口语言的高频策略研究，剩余的时间就是每天刷刷知乎什么的。”我问：“你们就是周二和周四加班呗？”他说：“是的，老板觉得得加加班，虽然没有什么事情。”他继续说道：“研报里面的一些东西实在是上不了台面，很多赚钱的高频策略是不share公开的。”我想，也是，一些高频策略是不会分享公开的。他跟我说：“也许对你们CTA有用的是，把所有的因子Z-score和RSI话，这样的话可能对你们的策略有不小的提升。”我惊讶的附和，道：“是的是的，RSI是个好东西啊，我的毕业论文也涉及到了RSI，真是一个神奇的指标，写论文能用，做策略也能用啊，哈哈哈！”“是的RSI指标是有路径依赖的特性，是一个很好的指标！”他笑眯眯的回答道：“比如说，盘口买1至买5的和与卖1至卖5和的差可以做RSI，这样的例子有很多，可以穷举一遍，看看对策略有没有提升。”我听到这也是有如拨云见日，茅塞顿开（OS：三国梗hhh！）</p>
-<p>&emsp;&emsp;“你们的策略不是用到了超算，我看你们公众号里面写着！”我继续追问。讲到这他笑着说：“这也不算是超算，就是显卡堆出来了，那个时候买的是20系的显卡，近期由于BTC的暴涨，导致显卡的价格飙升，我们的超算算是白用一年，还有固定资产的增值，哈哈哈。”“这可以啊！”我说。他继续讲道：“我们的超算主要用在了因子上，AI预测是真的准，这里面全是黑盒，你也不懂，但就是赚钱，就是说不出原因。比如一支股票已经涨停好几天了，这一天涨了6-7%左右，一般人会认为行情已经走完了理应卖出，但是AI认为这个时候不应卖出，果断持有一天，神奇的是果不其然，下午这个股票涨停了，在第二天才卖出这只股票。”我也一愣一愣的的，觉得是挺神奇的，这个黑盒咱也搞不懂，嗐！~</p>
-<p>&emsp;&emsp;聊到了未来的规划，我这位同学也直言不讳：“杭州也就这样，我可能想去上海发展一下，那边的九坤，启林都做的不错，因为杭州这边的策略已经固定下来了，我只是这里的一颗螺丝钉，起不了关键的作用，如果可以的话我希望趁年轻，在做一次奋斗逼，我也挺羡慕你们的，你们算是从0开始做起，有奋斗的感觉！”我说道：“我们也是打算一步一步慢慢来，在小规模资金的时候尽量做到最好，不希望在规模扩张的时候策略出现问题，现在的目标也是提升策略的收益风险比。”</p>
-<p>&emsp;&emsp;谈笑间，不知不觉已经聊了很久，感触颇深。最好，我也希望我们团队能扶摇直上，如鲲鹏展翅天际！</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>量化趋势</tag>
-        <tag>CTA策略</tag>
-        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -141,6 +95,29 @@
       </tags>
   </entry>
   <entry>
+    <title>【20210528】【随笔】杭州游记</title>
+    <url>/2021/05/28/%E3%80%9020210528%E3%80%91%E3%80%90%E9%9A%8F%E7%AC%94%E3%80%91%E6%9D%AD%E5%B7%9E%E6%B8%B8%E8%AE%B0/</url>
+    <content><![CDATA[<p>&emsp;&emsp;这个月也算将将完成了人生中的一件大事吧，我有学念了。经历了长达半年的入学考试准备，想着需要放松一下，去哪里玩呢？这个问题让我思索良久。最终我选择去杭州，也是我的一位同学毕业答辩完可以陪着我在杭州逛逛。</p>
+  <span id="more"></span>
+
+<p>&emsp;&emsp;为什么是杭州呢？这个城市既熟悉又陌生。几年前的元旦和家里人一起来杭州玩了一天，给我的最初的印象仅仅就是西湖。那一次乘兴而去,败兴而归。几年一别，这次希望能有不一样的感受。</p>
+<p>&emsp;&emsp;我趁着抓住春天的尾巴，五月末，春天最后的凉爽，坐着高铁，约一小时的车程。放置好行李，当天下午便逛了半圈的西湖。今时不同以往，尽管是工作日，客流量比几年前的元旦还要来的多。白堤前，断桥之上熙熙攘攘的人群衬托出西子湖畔的繁华。沿着河堤向前，岸边的柳树，碧绿的柳条好似绦子一般迎风飘荡，诉说夏日将临。傍晚，阴天淡墨色的云朵遮住了落日的余晖，在湖边碧绿一片的荷叶的相衬下，这片湖水显得格外娇俏。还没到游船靠岸的时间，翩翩小舟荡漾在湖面上别有一番滋味。向远处望去，远处的山峰若隐若现与西湖水遥相呼应，倏然，一幅山水画便呈现在面前，驻足湖边久久不忍离去。</p>
+<p><img src="/images/%5B20210528%5D/07.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/08.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/09.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/10.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/11.jpg" alt="游记"></p>
+<p>&emsp;&emsp;翌日上午，去了省博物馆，其中的藏品有一件令我影响深刻，一尊跪坐着的人像，发型感觉十分现代，身上文着不同的花纹，甚是搞笑。这天下午，顶着烈日去了良渚博物馆。</p>
+<p><img src="/images/%5B20210528%5D/12.jpg" alt="游记"></p>
+<p>&emsp;&emsp;随后再次折返西湖，找了一家湖边的星巴克上楼喝茶。依旧是在傍晚，这次太阳从半边云彩中露出真容，从二楼俯看这一潭西湖水，与昨天不同的是，今日西湖可以远眺至与尽头那一边的山相连接，山峦的层次感极尽丰富，近处着墨颇深，远处用淡淡的墨水勾勒出山峰大概的模样，也许这就是中国水墨画所要体现的意境吧。由远及近，笔触点缀一叶叶小舟，有大有小，令人流连。喝一口水，今日傍晚的夕阳甚是火辣，将我们送进了里面的空调房，室内的阴凉让我们长舒了一口气。</p>
+<p><img src="/images/%5B20210528%5D/13.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/14.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/15.jpg" alt="游记"></p>
+<p>&emsp;&emsp;不知不觉，已是周三，天气预报说今天将会有暴雨出现。早上坐着出租车来到了飞来峰、灵隐寺。走到一半，突降暴雨，带着伞，抬头一看，长者的墨宝引入眼帘（值了）。我们虽不诚心信佛，但此时此刻，也进庙拜了一拜，内心期待着今年有个好收成，身体健康。由于时间的关系，我们并没有去飞来峰，山高路滑，今日爬山也不是很合适，且就打了退堂鼓。雨落在屋檐上的声音滴滴答答，声声动人。</p>
+<p><img src="/images/%5B20210528%5D/16.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/17.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/18.jpg" alt="游记"></p>
+<p>&emsp;&emsp;第三次去西湖边了，这次选择了湖边的Costa咖啡馆，刚入座时，并未下雨，可以望穿远处的风景，小舟并未散去，眼前的两棵树好似我们的护卫站立在湖边，不时有小鸟停在亭内的桌子上叽叽喳喳。倏的间，水汽聚集在湖面上，遮住了远处的视线，豆大的雨点从天而降，眼前一片朦胧。雨声像是白噪声一般，催人入眠，恍惚间，迷迷糊糊快要在这睡着了。又过了良久雨声渐渐变小，将我从睡梦中拉了出来，睁开双眼，湖面趋于平静，好似什么也没有发生一般。阴凉的天气、多变的湖面、动人的雨声、层次感十足的远景太惹人怜爱了，手捧着一杯卡布奇诺可以坐一下午，什么也不想去思考，什么也不想去过问，静静的欣赏湖边的美景才是最让人舒服的事情。</p>
+<p><img src="/images/%5B20210528%5D/19.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/20.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/21.jpg" alt="游记"><br><img src="/images/%5B20210528%5D/22.jpg" alt="游记"></p>
+<p>&emsp;&emsp;来杭州三天，看到了三种不同样子的西湖，不虚此行。愿下次还能再次前来，愿能吃上黑珍珠级别的美食，这也是我未来的愿望吧！哈哈哈！~~</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+  </entry>
+  <entry>
     <title>【天凤】壁纸合集</title>
     <url>/2021/04/07/%E3%80%90%E5%A4%A9%E5%87%A4%E3%80%91%E5%A3%81%E7%BA%B8%E5%90%88%E9%9B%86/</url>
     <content><![CDATA[<p>&emsp;&emsp;这里包含了一些天凤的桌布。</p>
@@ -157,6 +134,29 @@
         <tag>壁纸</tag>
         <tag>天凤</tag>
         <tag>日麻</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【20210528】与从事量化行业同学的谈话总结及心得</title>
+    <url>/2021/05/28/%E3%80%9020210528%E3%80%91%E4%B8%8E%E4%BB%8E%E4%BA%8B%E9%87%8F%E5%8C%96%E8%A1%8C%E4%B8%9A%E5%90%8C%E5%AD%A6%E7%9A%84%E8%B0%88%E8%AF%9D%E6%80%BB%E7%BB%93%E5%8F%8A%E5%BF%83%E5%BE%97/</url>
+    <content><![CDATA[<p>&emsp;&emsp;前几天，也是在杭州的西子湖畔，与久别的老同学聚餐一顿。他来自杭州的某家知名量化私募，做的是算法交易研究员的工作，很高兴能与他深入交流，了解现在整个中国量化私募的相关信息（Os：八卦hhh）。</p>
+  <span id="more"></span>
+
+<p>&emsp;&emsp;也是很关心他家的CTA策略，问道：“你们的CTA策略做的不错。”他回答到：“哈哈哈，我们这块主要还是关注可以容纳相当体量的股票策略，这CTA策略仅仅是我们老板的个人策略已经一年没有更新了。”我继续问道：“那CTA策略是你们公司谁做的啊？”他继续应我，道：“哈哈哈，我不是很清楚，但是我们老板认为CTA体量太小了，就把两位做CTA的给辞了。”（此时此刻我内心OS：“wdnm，fxxk！”），这时我也只能勉为其难尴尬一笑。</p>
+<p>&emsp;&emsp;他告诉我：“我们的幕后老板其实不是XJ和CZ，他们也算我们老板的合伙人，我们老板为人极为低调，但是身价却不低，虽然福布斯里面也找不到他，哈哈哈。”我问：“今年来看，MH出了不少的负面消息啊！”他回答道：“是的，他们老板QHM野心太大了，策略优化的速度没有跟上规模的扩张速度，出事情是必然的，一年的规模从200E扩张道1300多E，这么看来，面临着不小的赎回压力。”（OS：看来不能盲目扩张啊）他继续说：“之前某一天股指期货的成交量巨大，我们老板当天晚上去打听了一些情况。这是因为一家上海的量化私募的高频策略出现了严重的问题，导致他们在一个下午巨亏2E多！”（OS：听着好吓人！~</p>
+<p>&emsp;&emsp;我问：“我听WDY说你们的对冲策略最近好像不太赚钱啊，这是什么原因？”他告诉我：“嗐，说来话长，哎？WDY是怎么知道我司的啊？”我偷笑道：“我告诉他的，他现在在BNB的理财子做基金研究，算是FOF吧，哈哈哈！”他继续回我：“对冲产品今年来是不太赚钱，因为基差的原因，每次换月不是动态调整，IF,IH,IC的基差非常小，由此对冲可以赚的基差收益是非常小的，本来策略部向老板建议做动态的换仓，但是老板觉得问题不大，嗐！我们还建议对冲产品的客户免费赎回，因为实在是对冲策略不太赚钱，因而对冲系列的产品今年的alpha可想而知。”我说：“也难怪啊！”</p>
+<p>&emsp;&emsp;问到了他具体的工作职责：“你一般做算法交易的，每天忙一些什么啊？？”他说：“现在策略已经基本不再改动了，我现在的工作职责算是整个部分的一颗小螺丝钉，每天工作也不是很忙。”（OS：太假了吧orz）我继续追问，那工作做好了看一些什么研报啊。”他跟我说：“我嘛，每天搞一些盘口语言的高频策略研究，剩余的时间就是每天刷刷知乎什么的。”我问：“你们就是周二和周四加班呗？”他说：“是的，老板觉得得加加班，虽然没有什么事情。”他继续说道：“研报里面的一些东西实在是上不了台面，很多赚钱的高频策略是不share公开的。”我想，也是，一些高频策略是不会分享公开的。他跟我说：“也许对你们CTA有用的是，把所有的因子Z-score和RSI话，这样的话可能对你们的策略有不小的提升。”我惊讶的附和，道：“是的是的，RSI是个好东西啊，我的毕业论文也涉及到了RSI，真是一个神奇的指标，写论文能用，做策略也能用啊，哈哈哈！”“是的RSI指标是有路径依赖的特性，是一个很好的指标！”他笑眯眯的回答道：“比如说，盘口买1至买5的和与卖1至卖5和的差可以做RSI，这样的例子有很多，可以穷举一遍，看看对策略有没有提升。”我听到这也是有如拨云见日，茅塞顿开（OS：三国梗hhh！）</p>
+<p>&emsp;&emsp;“你们的策略不是用到了超算，我看你们公众号里面写着！”我继续追问。讲到这他笑着说：“这也不算是超算，就是显卡堆出来了，那个时候买的是20系的显卡，近期由于BTC的暴涨，导致显卡的价格飙升，我们的超算算是白用一年，还有固定资产的增值，哈哈哈。”“这可以啊！”我说。他继续讲道：“我们的超算主要用在了因子上，AI预测是真的准，这里面全是黑盒，你也不懂，但就是赚钱，就是说不出原因。比如一支股票已经涨停好几天了，这一天涨了6-7%左右，一般人会认为行情已经走完了理应卖出，但是AI认为这个时候不应卖出，果断持有一天，神奇的是果不其然，下午这个股票涨停了，在第二天才卖出这只股票。”我也一愣一愣的的，觉得是挺神奇的，这个黑盒咱也搞不懂，嗐！~</p>
+<p>&emsp;&emsp;聊到了未来的规划，我这位同学也直言不讳：“杭州也就这样，我可能想去上海发展一下，那边的九坤，启林都做的不错，因为杭州这边的策略已经固定下来了，我只是这里的一颗螺丝钉，起不了关键的作用，如果可以的话我希望趁年轻，在做一次奋斗逼，我也挺羡慕你们的，你们算是从0开始做起，有奋斗的感觉！”我说道：“我们也是打算一步一步慢慢来，在小规模资金的时候尽量做到最好，不希望在规模扩张的时候策略出现问题，现在的目标也是提升策略的收益风险比。”</p>
+<p>&emsp;&emsp;谈笑间，不知不觉已经聊了很久，感触颇深。最好，我也希望我们团队能扶摇直上，如鲲鹏展翅天际！</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>量化趋势</tag>
+        <tag>CTA策略</tag>
+        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -376,6 +376,36 @@
     <tr><td><div align="center">122</div></td><td><img src='https://mj.black-desk.cn/23456m5779p1113s||2s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/9p||5p?scale=0.7' align='center' /></td></tr>
     <tr><td><div align="center">123</div></td><td><img src='https://mj.black-desk.cn/34m46999p234788s||8s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/4p||6p?scale=0.7' align='center' /></td></tr>
     <tr><td><div align="center">124</div></td><td><img src='https://mj.black-desk.cn/34m45999p234788s||8s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/7s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">125</div></td><td><img src='https://mj.black-desk.cn/24445689s13555p||9s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/8s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">126</div></td><td><img src='https://mj.black-desk.cn/56778p22344555s||6p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/2s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">127</div></td><td><img src='https://mj.black-desk.cn/7888p5678s45678m||7s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/7p?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">128</div></td><td><img src='https://mj.black-desk.cn/78p22999s224567m||6m?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/2m?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">129</div></td><td><img src='https://mj.black-desk.cn/123m12333445p||7_77z?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/3p?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">130</div></td><td><img src='https://mj.black-desk.cn/234p3467m236799s||4m?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/7m?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">131</div></td><td><img src='https://mj.black-desk.cn/23m8999s3456789p||2m?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/8s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">132</div></td><td><img src='https://mj.black-desk.cn/111357s888m2345p||6p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/7s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">133</div></td><td><img src='https://mj.black-desk.cn/12379s55667778m||8p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/8m?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">134</div></td><td><img src='https://mj.black-desk.cn/11m23999p234578s||3s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/8s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">135</div></td><td><img src='https://mj.black-desk.cn/11168m22466p468s||7m?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/8s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">135</div></td><td><img src='https://mj.black-desk.cn/23999m1355p5688s||7s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/1p?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">136</div></td><td><img src='https://mj.black-desk.cn/11378p13668999s||6p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/8s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">137</div></td><td><img src='https://mj.black-desk.cn/123499m668p3589s||7p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/8s||9s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">138</div></td><td><img src='https://mj.black-desk.cn/245667m7999p233s||6p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/2s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">139</div></td><td><img src='https://mj.black-desk.cn/78m1224p1113456s||3p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/2p?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">140</div></td><td><img src='https://mj.black-desk.cn/57999m3568s1127p||6p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/8s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">141</div></td><td><img src='https://mj.black-desk.cn/123567p1133379m||1m?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/7m?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">142</div></td><td><img src='https://mj.black-desk.cn/6799p4523367m||7_77z?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/6p?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">143</div></td><td><img src='https://mj.black-desk.cn/223356m67p788s||7_77z?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/3m?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">144</div></td><td><img src='https://mj.black-desk.cn/11234m112579p||7_77z?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/2p?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">145</div></td><td><img src='https://mj.black-desk.cn/23788m34s4599p||7_77z?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/4p||5p?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">146</div></td><td><img src='https://mj.black-desk.cn/23378m55p115678s||6m?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/3m?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">147</div></td><td><img src='https://mj.black-desk.cn/34589m46679s3||7_77z?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/9m?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">148</div></td><td><img src='https://mj.black-desk.cn/22m4599p2456778s||4p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/2s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">149</div></td><td><img src='https://mj.black-desk.cn/2345799m45899p2s||3s?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/8p?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">150</div></td><td><img src='https://mj.black-desk.cn/11222778s456m125p?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/5p?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">151</div></td><td><img src='https://mj.black-desk.cn/3467m2478s22899p||4m?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/2s?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">152</div></td><td><img src='https://mj.black-desk.cn/22234445m13389p||5m?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/1p?scale=0.7' align='center' /></td></tr>
+    <tr><td><div align="center">153</div></td><td><img src='https://mj.black-desk.cn/1168m23468p34s||7_77z?scale=0.7 ' align='center' /></td><td><img src='https://mj.black-desk.cn/6m||8m?scale=0.7' align='center' /></td></tr>
     </table>
 
 <p>【20210410】清一色听牌练习</p>
